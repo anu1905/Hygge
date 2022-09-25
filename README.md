@@ -24,10 +24,10 @@ Wrap the cardboard shape (using any half) around the LED candle to form a lampsh
 Slowly let go of the LED candle while holding the lampshade in place and start cross-stitching into the holes. I usually use the [knot-less loop method](https://www.youtube.com/watch?v=i0Nhw4mQJ5M&ab_channel=FatQuarterShopFlossTube) for beginning the cross-stitch. Then follow the usual half-stitch in one direction and back down the other direction that completes the cross-stitch, as shown below. 
 
 ![alt text](./img/hyyge_cross-stitch1.png)
-![alt text](./img/hyyge_cross-stitch2.png)
+
+![alt text](./img/hygge_cross-stitch2.png)
 
 When finished, the lampshade is ready to be glued onto the LED candle with a glue gun. Make sure to glue it around the circumference of the LED candle, so it does not accidentally fall out.
-
 
 Now for the 3D printed clip. You can use this link to the .stl file. Once printed, glue-gun the clip to the backside of the LED candle, as shown below. Be careful to align it in such a way that you are still able to replace the coin-cell battery. 
 
@@ -35,5 +35,5 @@ Now for the 3D printed clip. You can use this link to the .stl file. Once printe
 
 Your hygge book light is now ready! Clip it over some pages and enjoy cosy reading!
 
-![alt text](./img/Hyyge_light.jpg)
-![alt text](./img/Hyyge_dark.jpg)
+![alt text](./img/Hygge_light.jpg)
+![alt text](./img/Hygge_dark.jpg)
