@@ -27,13 +27,12 @@ Slowly let go of the LED candle while holding the lampshade in place and start c
 
 ![alt text](./img/hygge_cross-stitch2.png)
 
-When finished, the lampshade is ready to be glued onto the LED candle with a glue gun. Make sure to glue it around the circumference of the LED candle, so it does not accidentally fall out.
-
 Now for the 3D printed clip. You can use this link to the .stl file. Once printed, glue-gun the clip to the backside of the LED candle, as shown below. Be careful to align it in such a way that you are still able to replace the coin-cell battery. 
 
 ![alt text](./img/hyyge_clip.jpg)
 
-Your hygge book light is now ready! Clip it over some pages and enjoy cosy reading!
+When finished, the lampshade is ready to be glued onto the LED candle with a glue gun. Make sure to glue it around the circumference of the LED candle, so it does not accidentally fall out.
 
-![alt text](./img/Hygge_light.jpg)
-![alt text](./img/Hygge_dark.jpg)
+![alt text](./img/hygge_angles.png)
+
+Your hygge book light is now ready! Clip it over some pages and enjoy cosy reading!
