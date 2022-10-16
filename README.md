@@ -1,16 +1,16 @@
-# Make a _hygge_ book light
+# Make a _hygge_ book lamp
 _A Tutorial By Anuradha Reddy_
 Email: anu@duck.com
 Twitter: @anu1905
 
-As the winter cold sets in, it's time to get cosy under a warm blanket with a good book in dim candlelight. In Scandinavia, the term used to describe this cosy feeling is 'hygge'. This tutorial will show you how to make a hygge book light. Here's what you will need:
+As the winter cold sets in, it's time to get cosy under a warm blanket with a good book in dim candlelight. In Scandinavia, the term used to describe this cosy feeling is 'hygge'. In this tutorial, I will show you how to make a hygge book lamp. Here's what you will need:
 - One LED candle tea-light (you should be able to find one in your local department store that uses a coin-cell battery with an on-off switch in the back)
 - One [cross-stitch embroidery cardboard](https://www.rico-design.com/paper-poetry-stickkarton-weiss-17-5x24-5cm-10-bogen) sheet in white
 - White embroidery thread and a tapestry needle
 - A 3D printer and white PLA
 - A blade, cutting board, glue gun, ruler, drawing compass, pencil
 
-Start by preparing the embroidery cardboard to cut it to the lampshade size. First, measure the diameter of your LED candle tea light. The one I found in my local store is 4cm in diameter. Use a compass to then draw a circle twice the diameter of the LED candle. In my case, I drew a circle with a 4cm radius (8cm diameter). Add 4cm to the current radius of your compass and draw another circle with the same centre point. I drew mine at 4cm + 4cm = 8cm radius (16cm diameter). Now use a blade to cut the cardboard along the two concentric circles. It should result in a circular disk shape with a hole in the center. Finally, draw a straight line along its diameter in the middle and cut the shape in half. 
+We will start by cutting the embroidery cardboard to the lampshade size. First, measure the diameter of your LED candle tea light. The one I found in my local store is 4cm in diameter. Use a compass to then draw a circle twice the diameter of the LED candle. In my case, I drew a circle with a 4cm radius (8cm diameter). Add 4cm to the current radius of your compass and draw another circle with the same centre point. I drew mine at 4cm + 4cm = 8cm radius (16cm diameter). Now use a blade to cut the cardboard along the two concentric circles. It should result in a circular disk shape with a hole in the center. Finally, draw a straight line along its diameter in the middle and cut the shape in half. 
 
 ![alt text](./img/hygge_cardboard.png)
 
@@ -35,6 +35,6 @@ When finished, the lampshade is ready to be glued onto the LED candle with a glu
 
 ![alt text](./img/hygge_angles.png)
 
-Your hygge book light is now ready! Clip it over some pages and enjoy cosy reading!
+Your hygge book lamp is now ready! Clip it over some pages and enjoy cosy reading!
 
 ![alt text](./img/hygge_anu.jpg)
