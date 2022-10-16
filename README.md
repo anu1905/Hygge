@@ -27,7 +27,7 @@ Slowly let go of the LED candle while holding the lampshade in place and start c
 
 ![alt text](./img/hygge_cross-stitch2.png)
 
-Now for the 3D printed clip. You can use this link to the .stl file. After printing, glue-gun the clip to the backside of the LED candle, as shown below. Be careful to align it such that you are able to replace the coin-cell battery. 
+Now for the 3D printed clip. You can use [this link](https://github.com/anu1905/Hygge/blob/main/hygge_clip.stl) to the .stl file. After printing, glue-gun the clip to the backside of the LED candle, as shown below. Be careful to align it such that you are able to replace the coin-cell battery. 
 
 ![alt text](./img/hyyge_clip.jpg)
 
