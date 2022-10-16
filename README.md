@@ -36,3 +36,5 @@ When finished, the lampshade is ready to be glued onto the LED candle with a glu
 ![alt text](./img/hygge_angles.png)
 
 Your hygge book light is now ready! Clip it over some pages and enjoy cosy reading!
+
+![alt text](./img/hygge_anu.jpg)
